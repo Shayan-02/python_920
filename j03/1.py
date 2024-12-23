@@ -1,0 +1,6 @@
+n = float(input("enter number1: "))
+m = float(input("enter number2: "))
+print(n + m)
+print(n - m)
+print(n * m)
+print(n / m)
