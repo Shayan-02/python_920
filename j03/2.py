@@ -9,4 +9,7 @@ elif op == "-":
 elif op == "*":
     print(n * m)
 elif op == "/":
-    print(n / m)
+    if m == 0:
+        print("error")
+    else:
+        print(n / m)
