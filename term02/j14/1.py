@@ -1,7 +1,9 @@
-lst = [1, 3, 2, 5, 1, 2, 4]
-print(lst[::-1])
+lst = []
+while True:
+    n = int(input())
+    if n == 0:
+        break
+    lst.append(n)
 
-# lst.sort(reverse=True)
-# print(lst)
-lst.reverse()
-print(lst)
+for _ in lst[::-1]:
+    print(_)
