@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="IsPs5YmUTw67ROYLh_9W" name="Page-1">
+        <mxGraphModel dx="1392" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;fontFamily=vazir;fontStyle=1;fontSize=19;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;fillColor=#d80073;strokeColor=#A50040;fontFamily=vazir;fontStyle=1;fontSize=19;" edge="1" parent="1" source="2" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="بیمار" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontFamily=vazir;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="ویزیت" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontFamily=vazir;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="180" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;fontFamily=vazir;fontStyle=1;fontSize=19;" edge="1" parent="1" source="5" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="پزشک" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=vazir;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;fontFamily=vazir;fontStyle=1;fontSize=19;" edge="1" parent="1" source="7" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="منشی" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontFamily=vazir;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="نام" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontFamily=vazir;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="80" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
